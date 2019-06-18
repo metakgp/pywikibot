@@ -37,7 +37,7 @@ pycountry==1.15
 pycparser==2.14
 pydot==1.0.29
 PyJWT==1.4.0
-pyOpenSSL==0.15.1
+pyOpenSSL==17.5.0
 pyparsing==2.0.3
 python-stdnum==1.1
 pytz==2015.4
