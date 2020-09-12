@@ -5,7 +5,7 @@ The Pywikibot framework is a Python library that interfaces with the
 `MediaWiki API <https://www.mediawiki.org/wiki/Special:MyLanguage/API:Main_page>`_
 version 1.14 or higher.
 
-Also included are various general function scripts that can be adapted for
+Also includes various general function scripts that can be adapted for
 different tasks.
 
 For further information about the library excluding scripts see
@@ -43,7 +43,7 @@ If you wish to write your own script it's very easy to get started:
     page.text = page.text.replace('foo', 'bar')
     page.save('Replacing "foo" with "bar"')  # Saves the page
 
-Required external programms
+Required external programs
 ---------------------------
 
 It may require the following programs to function properly:
