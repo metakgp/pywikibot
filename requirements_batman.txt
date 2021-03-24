@@ -44,7 +44,7 @@ pytz==2015.4
 requests==2.20.0
 requests-oauthlib==0.5.0
 requests-toolbelt==0.4.0
-rsa==3.2
+rsa==4.1
 simplejson==3.8.0
 six==1.9.0
 socketIO-client==0.5.6
