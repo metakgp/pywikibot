@@ -2,7 +2,7 @@ backports.functools-lru-cache==1.0.3
 beautifulsoup4==4.4.0
 cffi==1.2.1
 crontab==0.20.2
-cryptography==1.0.1
+cryptography==3.3.2
 enum34==1.0.4
 flickrapi==2.1.1
 google==1.7
