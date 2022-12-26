@@ -53,6 +53,6 @@ unicodecsv==0.13.0
 unicodedata2==8.0.0
 uritemplate==0.6
 websocket-client==0.32.0
-wheel==0.24.0
+wheel==0.38.1
 yg.lockfile==2.1
 zc.lockfile==1.1.0
